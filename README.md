@@ -2,7 +2,4 @@
 
 Online platforms for tokens:
 
-1. [ google sheet ] (https://icomarks.com/)
-2. icodrops.com
-3. coinmarketcap.com
-4. coincodex.com
+this [google sheet](https://docs.google.com/spreadsheets/d/10I5rRRPchQpULvUGnYzoN5AEEdtjNdejYqe_P0F4-C0/edit?usp=sharing)
