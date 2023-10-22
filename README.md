@@ -12,3 +12,4 @@ This [google sheet](https://docs.google.com/spreadsheets/d/10I5rRRPchQpULvUGnYzo
 3. application(s)
 4. country 
 
+It is periodically updated.
