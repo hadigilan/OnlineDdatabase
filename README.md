@@ -6,4 +6,9 @@ with [dataDr](http://datadr.blogfa.com/) weblog for Iranian students in Farsi, w
 
 
 # The google sheet
-this [google sheet](https://docs.google.com/spreadsheets/d/10I5rRRPchQpULvUGnYzoN5AEEdtjNdejYqe_P0F4-C0/edit?usp=sharing)
+This [google sheet](https://docs.google.com/spreadsheets/d/10I5rRRPchQpULvUGnYzoN5AEEdtjNdejYqe_P0F4-C0/edit?usp=sharing) introduces online databases. It containes different columns as pillar of each database including:
+1. a link to the database
+2. short description
+3. application(s)
+4. country 
+
