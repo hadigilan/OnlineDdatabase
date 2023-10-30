@@ -10,6 +10,8 @@ This [google sheet](https://docs.google.com/spreadsheets/d/10I5rRRPchQpULvUGnYzo
 1. a link to the database
 2. short description
 3. application(s)
-4. country 
+4. country
+5. avaliability of data
+6. a "How to use it!" column to explain how to use the database
 
 It is periodically updated.
