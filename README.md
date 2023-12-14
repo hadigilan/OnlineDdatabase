@@ -14,4 +14,4 @@ This [google sheet](https://docs.google.com/spreadsheets/d/10I5rRRPchQpULvUGnYzo
 5. avaliability of data
 6. a "How to use it!" column to explain how to use the database
 
-It is periodically updated.
+It also has a specific sheet to introduce macro events in the history of US which are used as exogenous shocks in literature. It is periodically updated.
